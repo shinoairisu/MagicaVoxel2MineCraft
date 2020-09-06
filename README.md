@@ -1,0 +1,2 @@
+# MagicaVoxel2MineCraft
+MagicaVoxel的模型快速导入MineCraft的1.12或基岩版1.8.0之后的版本
